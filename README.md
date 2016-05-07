@@ -24,6 +24,10 @@ You can run *client.py* in any machine for which you want the stats.
 
 For simplicity, I have used localhost as server but you can change it according to you in *client.py*.
 
+## Screenshots
+
+![One client connected](screenshots/img.jpg?raw=true "Client monitored stats")
+
 ## Future
 
 This is only an implementation of asynchronous programming on django. I will be soon adding in some additional features and making it a full fledged network monitoring app.
