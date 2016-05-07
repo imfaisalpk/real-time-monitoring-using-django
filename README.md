@@ -26,7 +26,7 @@ For simplicity, I have used localhost as server but you can change it according 
 
 ## Screenshots
 
-![One client connected](screenshots/img.jpg?raw=true "Client monitored stats")
+![One client connected](https://github.com/shwetankarora/real-time-monitoring-using-django/blob/master/screenshots/screenshot.png "Client monitored stats")
 
 ## Future
 
